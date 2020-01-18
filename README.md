@@ -1,0 +1,1 @@
+"# php-language-detector-script" 
